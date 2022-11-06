@@ -1,3 +1,8 @@
+This is a fork of Tokyo Night theme where I remove the custom bracket pairs colorization for the Tokyo Night Storm theme.
+Maybe other changes later. 
+
+Original readme below.
+
 # [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/enkia.tokyo-night/Tokyo%20Night%20Storm)
 [![Version](https://vsmarketplacebadge.apphb.com/version/enkia.tokyo-night.svg)](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
