@@ -1,3 +1,17 @@
+### 0.9.5 (2022-11-06)
+
+
+### Features
+
+* :rocket: initial commit fork of tokyo night theme ([1196232](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/1196232e2281d32c72870aab2036032eeed137d3))
+
+
+### Bug Fixes
+
+* :bug: fix package.json ([36cc755](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/36cc7552303112f282adc3f247deba30f7d51a79))
+* :fire: remove custom bracket pairs colorization ([b579db0](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/b579db0b593065a6fe804b79be64ab5fccc7de22))
+* use jetbrains plugin ([5859a08](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/5859a08ecd492382ddda39f9871cb661d0e597e6))
+
 # Release Notes
 ## 0.9.4
 `2022-08-14`
