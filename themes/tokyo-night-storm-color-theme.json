@@ -128,6 +128,7 @@
     "scrollbarSlider.hoverBackground": "#9cacff10",
     "scrollbarSlider.activeBackground": "#9cacff22",
 
+    /*
     "editorBracketHighlight.foreground1": "#698cd6", //"#7AA2F7",
     "editorBracketHighlight.foreground2": "#68b3de", //"#7DCFFF",
     "editorBracketHighlight.foreground3": "#9a7ecc", //"#BB9AF7",
@@ -140,7 +141,9 @@
     "editorBracketPairGuide.activeBackground4": "#25aac2",
     "editorBracketPairGuide.activeBackground5": "#80a856",
     "editorBracketPairGuide.activeBackground6": "#cfa25f",
+    */
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+
     "selection.background": "#6f7bb635",
     "editor.background": "#24283b",
     "editor.foreground": "#a9b1d6",
