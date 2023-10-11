@@ -55,6 +55,9 @@
   "scripts": {
     "package": "vsce package",
     "publish": "vsce publish",
-    "version": "conventional-changelog -p conventionalcommits -i CHANGELOG.md -s"
+    "version": "commit-and-tag-version"
+  },
+  "devDependencies": {
+    "commit-and-tag-version": "^11.3.0"
   }
 }
