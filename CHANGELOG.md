@@ -1,3 +1,25 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+
+## 1.1.0 (2023-10-11)
+
+
+### Features
+
+* :package: add commit-and-tag-version for changelog ([bebe2bc](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/bebe2bc44242679743b89e9b917ff3b66278b910))
+* :rocket: initial commit fork of tokyo night theme ([1196232](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/1196232e2281d32c72870aab2036032eeed137d3))
+* adding jsdoc-style settings in readme ([#79](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/issues/79)) ([e523651](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/e5236511010c670e7545dd55833bae98c9fcd858))
+
+
+### Bug Fixes
+
+* :bug: fix package.json ([36cc755](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/36cc7552303112f282adc3f247deba30f7d51a79))
+* :fire: comment out bracket highlighting to use VSCode defaults ([0ed8faf](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/0ed8fafbeba7ef8440e7a3174d18087f3e4bb960))
+* :fire: remove custom bracket pairs colorization ([b579db0](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/b579db0b593065a6fe804b79be64ab5fccc7de22))
+* :lipstick: make unexpected brackets red ([89dcdee](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/89dcdee8c88eaf2e20948306d88950dd33453b1f))
+* use jetbrains plugin ([5859a08](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/5859a08ecd492382ddda39f9871cb661d0e597e6))
+
 ### 0.9.5 (2022-11-06)
 
 
