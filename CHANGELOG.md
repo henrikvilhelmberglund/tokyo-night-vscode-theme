@@ -13,6 +13,50 @@
 * use jetbrains plugin ([5859a08](https://github.com/henrikvilhelmberglund/tokyo-night-vscode-theme/commit/5859a08ecd492382ddda39f9871cb661d0e597e6))
 
 # Release Notes
+## 1.0.4
+- Add JSDoc syntax highlighting settings to README (Thanks to [tigga73](https://github.com/tigga73))
+  
+## 1.0.3
+`2023-10-03`
+- Fix syntax color issues with Babel Javascript extension
+
+## 1.0.2
+`2023-09-28`
+- Update jsx text color
+  
+## 1.0.1
+`2023-08-02`
+- Update foreground color in Storm theme
+- Update Python syntax highlighting colors
+
+## 1.0.0
+`2023-07-21`
+- Update unrecognized HTML tag color
+  
+## 0.9.9
+`2023-03-28`
+- Fix property color of objects in templates
+- Add KiCad, Tilix/Black Box Terminal, gtksourceview ports (Thanks to [kevin-nel](https://github.com/kevin-nel))
+  
+## 0.9.8
+`2023-03-21`
+- Update Gitlens colors
+- Fix Vue inline chained event modifier color
+- Increase contrast for dark themes' editor and terminal text selections
+
+## 0.9.7
+`2023-02-16`
+- Revert custom component tag color for dark themes
+  
+## 0.9.6
+`2023-02-13`
+- Update README
+  
+## 0.9.5
+`2023-02-13`
+- Update input validation info colors
+- Update custom component tag colors
+  
 ## 0.9.4
 `2022-08-14`
 - Update secondary button color
